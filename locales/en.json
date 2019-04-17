@@ -1,0 +1,12 @@
+{
+    "link": "vbox_plugins Link",
+    "listing": {
+        "title": "vbox_plugins Listing"
+    },
+    "report": {
+        "title": "vbox_plugins Report"
+    },
+    "widget": {
+        "title": "vbox_plugins Widget"
+    }
+}
